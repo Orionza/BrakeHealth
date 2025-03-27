@@ -1,0 +1,7 @@
+Parametre	Açıklama	Aralık
+total_km	Toplam km	5,000 – 500,000
+harsh_braking	Sert fren sayısı	0 – 150+ (ortalama ~50)
+avg_speed	Ortalama hız (km/h)	20.0 – 150.0
+ignition_duration	Kontak süresi (saat)	0.5 – 6.0
+engine_rpm	Motor devri (RPM)	1000 – 4000
+brake_temp	Fren sıcaklığı (°C)	80 – 300
